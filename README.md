@@ -1,16 +1,24 @@
-## `About`
-I did this project with help of Alura, it's project with function of help you studies organization.\
+# React Studies!
 
-### `yarn install`
+<img src="https://user-images.githubusercontent.com/62245391/236490431-54223054-55fd-46d1-8ed2-c67475aa199d.png" alt="image of project"/>
 
-Download the node_modules of project
+## 🚀 Technologies
 
-### `yarn start`
+Este projeto está usando: 
+- [ReactJS](https://reactjs.org)
+- [typescript](https://www.typescriptlang.org)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Libs:
+- [sass](https://sass-lang.com)
+- [uuid](https://www.npmjs.com/package/uuid)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## 💻 Sobre o projeto
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+This project is a timer for your studies, you can add task and set a timer, after you can start a timer for make the task.
+
+## 📜 Scripts
+
+For run this project you need to
+
+- `yarn install` for install the node_modules
+- `yarn start` for open in the prot 3000
