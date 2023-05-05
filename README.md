@@ -4,7 +4,7 @@
 
 ## 🚀 Technologies
 
-Este projeto está usando: 
+This project is using: 
 - [ReactJS](https://reactjs.org)
 - [typescript](https://www.typescriptlang.org)
 
